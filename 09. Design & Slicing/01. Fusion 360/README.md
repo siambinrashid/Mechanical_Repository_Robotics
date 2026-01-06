@@ -177,7 +177,7 @@ These tools help you smooth out rough spots, hollow out parts, or change the ove
 
 - **![fillet icon](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.023.png) Fillet:** **Rounds off** a sharp edge or corner. You select the edge and set the curve's **radius**.
 
-- **![chamfer icon](../images/=Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.024.png) Chamfer:** **Cuts a flat angle** on a sharp edge instead of rounding it. You set the **distance** and **angle** of the cut.
+- **![chamfer icon](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.024.png) Chamfer:** **Cuts a flat angle** on a sharp edge instead of rounding it. You set the **distance** and **angle** of the cut.
 
 - **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.025.png)** Shell: **Makes a solid part hollow**, like a plastic bottle. You pick the faces you want to remove to create the opening and set the **wall thickness**.
 
