@@ -1,5 +1,7 @@
 ## **Module 1 — Why Fabrication Matters** 
 
+<img width="910" height="590" alt="image" src="https://github.com/user-attachments/assets/b5786c91-e359-4b34-a3e4-5f39be3c8622" />
+
 ### **1.1 What “fabrication” actually means in robotics**
 
 When people hear “robotics,” they often think the hard part is coding or electronics. But in real projects, the mechanical side is what turns a cool idea into something that actually works. Fabrication is basically the process of **making real parts**—cutting, drilling, printing, machining, fastening, welding—so your robot can exist outside of CAD.
@@ -16,6 +18,8 @@ A robot is a system. If the frame flexes, the sensors misread. If a bracket bend
 ---
 
 ### **1.2 Why CAD and simulation are not enough**
+
+<img width="966" height="401" alt="image" src="https://github.com/user-attachments/assets/ae627411-673c-402f-949e-ac6579c09b0c" />
 
 CAD is necessary, but CAD is also kind of “too perfect.”
 
