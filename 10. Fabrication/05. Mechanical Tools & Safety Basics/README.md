@@ -487,6 +487,6 @@ Use this as a quick decision guide:
 
 ---
 
-### [Next Chapter: Welding & Lathe Operations](06.%20Welding%20%26%20Lathe%20Operations.md
+### [Next Chapter: Welding & Lathe Operations](../06.%20Welding%20%26%20Lathe%20Operations/README.md
 
 ---
