@@ -22,7 +22,7 @@ The goal of this section is to provide students with the hands-on knowledge requ
 * **[Module 01: Why Fabrication Matters?](./01.%20Why%20Fabrication%20Matters?/README.md)**
   - Importance of physical prototypes in engineering.
   - Improving designs through iterative making and testing.
-* **[Module 02: Choosing the Right Materials](./02.%20Choosing%20the%20Right%20Materials/)**
+* **[Module 02: Choosing the Right Materials](./02.%20Choosing%20the%20Right%20Materials/README.md)**
   - Guide to Mild Steel, Stainless Steel, Aluminum, and Carbon Fiber.
   - Understanding Engineering 3D printings: PLA, ABS, and TPU.
 
