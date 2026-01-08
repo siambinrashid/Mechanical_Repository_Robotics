@@ -224,6 +224,6 @@ Even if the code is perfect, a drivetrain with poor fabrication will drive badly
 
 ---
 
-### [Next Chapter: Choosing The Right Materials](02.%20Choosing%20The%20Right%20Materials.md)
+### [Next Chapter: Choosing The Right Materials](./02.%20Choosing%20The%20Right%20Materials.md)
 
 ---
