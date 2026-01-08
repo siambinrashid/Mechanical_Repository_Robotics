@@ -377,6 +377,6 @@ If too tight:
 
 ---
 
-### [Next Chapter: Fabrication Factors & Maintenence ](../08.%20Fabrication%20Factors%20&%20Maintenence/README.md)
+### [Next Chapter: Fabrication Factors & Maintenence ](../08.%20Fabrication%20Factors%20&%20Maintenance/README.md)
 
 ---
