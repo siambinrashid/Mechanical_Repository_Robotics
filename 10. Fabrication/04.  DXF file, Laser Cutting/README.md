@@ -414,6 +414,6 @@ Before cutting any real part:
 
 ---
 
-### [Next Chapter: Mechanical Tools & Safety Basics ](05.%20Mechanical%20Tools%20&%20Safety%20Basics.md)
+### [Next Chapter: Mechanical Tools & Safety Basics ](../05.%20Mechanical%20Tools%20&%20Safety%20Basics/README.md)
 
 ---
