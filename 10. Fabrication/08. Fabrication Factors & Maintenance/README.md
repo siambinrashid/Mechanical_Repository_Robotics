@@ -258,6 +258,6 @@ Fix:
 
 ---
 
-### [Next Chapter: Putting It All Together: Prototyping Workflow](06.%20Putting%20It%20All%20Together%3A%20Prototyping%20Workflow.md)
+### [Next Chapter: Putting It All Together: Prototyping Workflow](../09.%20Putting%20It%20All%20Together%3A%20Prototyping%20Workflow/README.md)
 
 ---
