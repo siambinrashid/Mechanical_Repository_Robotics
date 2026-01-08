@@ -432,6 +432,6 @@ A lathe is dangerous if you treat it casually.
 
 ---
 
-### [Next Chapter: Nut, Bolts, Bearings & Fasteners](../07.%20Nut%2C%20Bolts%2C%20Bearings%20%26%20Fasteners/README.md)
+### [Next Chapter: Nut, Bolts, Bearings & Fasteners](../07.%20Nut%2C%20Bolts%2C%20Bearings%20&%20Fasteners/README.md)
 
 ---
