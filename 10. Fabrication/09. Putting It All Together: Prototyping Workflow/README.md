@@ -287,6 +287,6 @@ Before making final parts:
 
 ---
 
-### [Next Chapter: Assembly & Troubleshooting ](10.%20Assembly%20&%20Troubleshooting.md)
+### [Next Chapter: Assembly & Troubleshooting ](.//10.%20Assembly%20&%20Troubleshooting/README.md)
 
 ---
