@@ -520,5 +520,7 @@ Plastic threads wear out fast. Use:
 Threads strip. If it must be removable, use nuts or inserts, or go thicker.
 
 ---
-### [Next Chapter: Introduction to Fabrication Machines](../03.%20Introduction%20to%20Fabrication%20Machines.md)
+
+### [Next Chapter: Introduction to Fabrication Machines](../03.%20Introduction%20to%20Fabrication%20Machines/README.md)
+
 ---
