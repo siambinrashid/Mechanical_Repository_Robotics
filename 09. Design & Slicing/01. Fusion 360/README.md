@@ -7,39 +7,50 @@ First things first: Do not download that 30-day trial.
 #### <a name="_r1nbiikke0yb"></a>The Quick Setup:
  **Create the account:** Go to the official Autodesk education site. You need to create an account there.  Write your basic info—email, name, password.
 
-![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.001.png)
+<p align="center">
+  <img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.001.png" />
+</p>
 
+<p align="center">
+<img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.002.png" />
+</p>
+<p align="center">
+<img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.003.png" />
+</p>
 
-![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.002.png)
+**Proof of studentship:**
 
-
-![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.003.png)
-
- **Proof of studentship:** 
 1. Scroll to the **All Products** section and select Fusion 360.
 
 
-
-
-![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.004.png)
-
+<p align="center">
+<img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.004.png" />
+</p>
+  
 2. Select a subscription plan as a student.
 
-![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.005.png)
-
+<p align="center">
+<img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.005.png" />
+</p>
+  
 3. Fill up the form & obviously provide the right information. Upload the ID card and submit the form.
-
-![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.006.png)
-
+   
+<p align="center">
+<img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.006.png" />
+</p>
 
 
  **Download and install:** Once you have that confirmation, go to the Fusion 360 page and click the "Get Product" button. Download the file, run it, and let the program install itself. 
 
-![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.007.png)
+<p align="center">
+<img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.007.png" />
+</p>
 
  **Final setup:** When you open the program for the first time, it'll ask you about setting up a "Team." Give your team a random name and click OK.
 
-![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.008.png)**
+<p align="center">
+<img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.008.png" />
+</p>
 
 ## <a name="_3f7ntscye6ma"></a>Setting Up Preferences (Units, Grid, Theme)
 
@@ -49,9 +60,13 @@ First things first: Do not download that 30-day trial.
 2. Open **Default Units → Design**.
 3. Choose your unit system (**mm**, **cm**, **inch**, etc.).
 
-![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.010.png)
+<p align="center">
+<img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.010.png" />
+</p>
 
-![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.009.png)
+<p align="center">
+<img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.009.png" />
+</p>
 
 
 4. Confirm to apply.
@@ -62,7 +77,9 @@ First things first: Do not download that 30-day trial.
 -----
 ### <a name="_8nw81pm7ij4s"></a>2. Units for the Current File
 
-![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.011.png)
+<p align="center">
+<img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.011.png" />
+</p>
 
 1. In the **Browser** (left), open **Document Settings**.
 2. Click the small **Units** icon beside it.
@@ -72,7 +89,9 @@ First things first: Do not download that 30-day trial.
 -----
 ### <a name="_7osyarke8a4o"></a>**3. Grid Settings**
 
-![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.012.png)
+<p align="center">
+<img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.012.png" />
+</p>
 
 1. Bottom toolbar → **Grids & Snaps**.
 1. Select **Grid Settings**.
@@ -84,7 +103,9 @@ First things first: Do not download that 30-day trial.
 - ## <a name="_keaondoydsom"></a>Toolbar
 **(The strip at the highest)**
 
-![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.013.png)
+<p align="center">
+<img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.013.png" />
+</p>
 
 This is just your tool collection, you know? It’s got all the buttons. Drawing stuff, building stuff—it’s all there. And it's cool because it basically reads your mind; if you switch to a different task, the whole strip of tools switches automatically. Like, poof, new tools.
 
@@ -92,7 +113,9 @@ This is just your tool collection, you know? It’s got all the buttons. Drawing
 ##
 - ## <a name="_jfizewhej719"></a><a name="_alx8sxvwmffi"></a>Browser Panel
 
-![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.014.png)
+<p align="center">
+<img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.014.png" />
+</p>
 
 **(The vertical list on the left)**
 
@@ -102,7 +125,9 @@ Okay, so you build stuff, right? This list is your running list of literally eve
 - ## <a name="_gd8fhd15dsm7"></a>**Canvas Area**
 **(The large space)**
 
-![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.015.png)
+<p align="center">
+<img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.015.png" />
+</p>
 
 Well, this is the main spot. Your digital desk. Everything you build—that’s where it lives. This is where all the action and the fun happen. You see your work right here.
 
@@ -114,11 +139,15 @@ Well, this is the main spot. Your digital desk. Everything you build—that’s 
 
 I call this the camera holder. You click it to look at the top, or the front, or whatever. Or you can just grab it and spin the whole model around with your mouse, like you're holding it up in the air. Easy way to look at the back side.
 
-![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.016.png)
+<p align="center">
+<img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.016.png" />
+</p>
 
 -----
 - ## <a name="_b3vja3jf7fur"></a>**Navigation Bar**
-![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.017.png)
+<p align="center">
+<img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.017.png" />
+</p>
 
 **(Down below that box)**
 
@@ -130,7 +159,9 @@ These are just the controls for your view. They let you slide the picture around
 **(The bar way down at the bottom)**
 This thing is awesome. It's your undo history on steroids. Every single action is recorded here. If you did something ten steps ago and realized it was wrong, you jump back, fix only that one thing, and everything else you built snaps into place correctly. It's the master editor.
 
-![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.018.png)
+<p align="center">
+<img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.018.png" />
+</p>
 
 -----
 - ## <a name="_s32gqd7qxl29"></a>**Data Panel**
@@ -138,89 +169,525 @@ This thing is awesome. It's your undo history on steroids. Every single action i
 This just opens up your folder system. It's where all your saved designs and projects live. Click it, find your file, and open it. Super simple filing cabinet.
 
 -----
-## ![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.019.png)
+<p align="center">
+<img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.019.png" />
+</p>
+
+---
 
 
 ## <a name="_y9rv8xycltd5"></a><a name="_g92w296r6ffn"></a><a name="_bci4hswgbkh1"></a><a name="_xqz62ri0fzul"></a>**Basic 2D Sketching: Create New Sketch**
 Selecting a side of any object or any axis from the **origin**.Go to the toolbar and select “Create Sketch”.
 
-Every 3D part starts with a **2D sketch**. These tools help you draw the basic shapes on your virtual canvas.
+### 1.1 Every 3D part starts with a **2D sketch**. These tools help you draw the basic shapes on your virtual canvas.
 
-- **Line** (L): Drawing a straight edge between two points.
-- **Two Point Rectangle**: Clicking the **first corner**, then clicking the **opposite corner** to complete the box. You can also just type in the **width** and **height** you want.
-- **Center Point Rectangle**: Clicking where the **center** should be, then dragging outward to define the size.
-- **Center Point Circle**: Clicking the **center** spot, then pulling out to set the distance across (the **Diameter**).
-- **Two Point Circle**: Clicking the two spots that define the total distance across the circle.
------
-**Controlling Dimensions & Constraints**\
+<p align="center">
+<img width="880" height="402" alt="image" src="https://github.com/user-attachments/assets/8cb45297-6afc-4714-99ad-a0a1b8a410c7" />
+</p>
+
+* **Line** (L): Drawing a straight edge between two points.
+
+<p align="center">
+<img width="814" height="716" alt="image" src="https://github.com/user-attachments/assets/29aa7f5a-3ecd-46fd-9ab6-0e6c5c81d846" />
+</p>
+
+* **Two Point Rectangle**: Clicking the **first corner**, then clicking the **opposite corner** to complete the box. You can also just type in the **width** and **height** you want.
+  
+<table align="center">
+  <tr>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/414b68c6-ca3a-4220-a4a2-08aaa5500947" width="350" alt="Select Command" />
+      <br />
+      <b>Select the "Center Point Rectangle" Command</b>
+    </td>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/d8cb767e-ea4e-4767-91ca-42e6d78ea1d0" width="350" alt="Specify Dimensions" />
+      <br />
+      <b>Specify the Dimensions</b>
+    </td>
+  </tr>
+</table>
+  
+* **Center Point Rectangle**: Clicking where the **center** should be, then dragging outward to define the size.
+
+<table align="center">
+  <tr>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/e7ce4d29-1cd7-446c-9e03-90904885e06a" width="350" alt="Select Circle Command" />
+      <br />
+      <b>Select the "Center Point Circle" Command</b>
+    </td>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/df2bbebe-f3f7-4cb2-b3e0-4629a7dd1f8d" width="450" alt="Specify Dimensions" />
+      <br />
+      <b>Specify the Dimensions</b>
+    </td>
+  </tr>
+</table>
+
+* **Center Point Circle**: Clicking the **center** spot, then pulling out to set the distance across (the **Diameter**).
+
+<table align="center">
+  <tr>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/e5a8769e-e108-4303-882d-896ef0666b19" width="350" alt="Select Command" />
+      <br />
+      <b>Select the "Two Point Circle" Command</b>
+    </td>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/6fd19980-4eb4-47e9-a96c-fe7d52d5ad1c" width="400" alt="Specify Dimensions" />
+      <br />
+      <b>Specify the Dimensions</b>
+    </td>
+  </tr>
+</table>
+  
+* **Two Point Circle**: Clicking the two spots that define the total distance across the circle.
+
+---
+
+## **Controlling Dimensions & Constraints**
 You must use dimensions to make your shapes stay put and have the correct size.
 
-- **Dimension Tool** (D): This is how you control the exact measurements.
-  - Click a **line** or **circle** to check its length or diameter, and type in a new value.
-  - **Spacing Lines/Angles:** Hold **Ctrl** and select **two lines**. You can then set the required space between them or the angle if they cross.
-  - **Spacing Centers:** Hold **Ctrl** and click the **center of two circles** to control how far apart they are.
-- **Quick Check:** If you just select an edge, the current **measurement** usually pops up in the corner, which is handy.
------
+* **Dimension Tool** (D): This is how you control the exact measurements.
+  - CLick **D** then Click a **line** or **circle** to check its length or diameter, Drag the mouse a bit, Press Enter or Left Button of the Mouse and type in a new value.
+    <p align="center">
+    <img width="527" height="479" alt="image" src="https://github.com/user-attachments/assets/396e8b31-06bb-4ed5-a6ca-9db90818b65b" />
+    </p>
+    
+**Draw a random angle:**
+
+<p align="center">
+<img width="469" height="408" alt="image" src="https://github.com/user-attachments/assets/44c81ebd-333c-4d1c-bffe-7c8eb6af33b0" />
+</p>
+    
+* Click **D** then Click a **line** and another **Line**, Drag the mouse a bit, Press Enter or Left Button of the Mouse and type in a new value.
+
+<p align="center">
+<img width="852" height="738" alt="image" src="https://github.com/user-attachments/assets/905d83ce-2e3e-42f4-9a90-c4909e6d63dd" />
+</p>
+  
+* **Spacing Centers:** Click D and click the **center of two circles** to control how far apart they are.
+    
 
 
-**3D Feature Creation**\
+**Quick Check:** 
+
+<p align="center">
+<img width="333" height="165" alt="image" src="https://github.com/user-attachments/assets/177101f0-c7c6-4374-90b8-3ebe5cbec942" />
+</p>
+
+*If you just select an edge, cirlce, the current **measurement** usually pops up in the corner, which is handy.
+
+<p align="center">
+<img width="326" height="163" alt="image" src="https://github.com/user-attachments/assets/7e4021b7-ce97-4bf3-ac04-736b9d45a0cb" />
+</p>
+
+*If you just select two lines, two cirlces and two lines of an angle, holding **CTRL** ,the current **measurement** usually pops up in the corner, which is handy.
+
+---
+
+
+
+## **3D Feature Creation**
+
+
 After your sketch is done, you use these tools to give it volume and make copies.
 
-- ![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.020.png)**Extrude:** This is how you "pull" a **2D shape** into a **3D solid**. You select the closed **sketch** and set the depth. You can **add** material (**Join**) or **remove** it (**Cut**).
-- ![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.021.png)**Mirror:** Makes a perfect, identical copy flipped across a reference line or **plane**.
-- **Pattern:** Instead of copying things one-by-one, you use this to make many copies (of a feature or a whole object) following a straight (**linear**) or round (**circular**) path.
+### 1.1  ![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.020.png)**Extrude:** This is how you "pull" a **2D shape** into a **3D solid**.
+
+<p align="center">
+<img width="1171" height="486" alt="image" src="https://github.com/user-attachments/assets/e6a5d268-cbef-4c05-bcc1-19bdbb7ec011" />
+</p>
+
+* You select the closed **sketch** and press E & specify the value.
+
 -----
-**3D Modification**\
+
+<p align="center">
+<img width="1198" height="585" alt="image" src="https://github.com/user-attachments/assets/d39d5c86-3727-4135-a02e-ff24ae200949" />
+</p>
+
+* There are a few modes. **Join**, **Cut**, **Interscet**, **New Body**, **New Component**
+
+-----
+
+<table align="center">
+  <tr>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/6899bbbc-b989-4655-b1b2-4e6d91ce32cc" width="600" alt="Join" />
+      <br />
+      <b>Join</b>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/722c5342-9d3c-402d-a29a-7af709d6b58a" width="600" alt="Cut" />
+      <br />
+      <b>Cut</b>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/3e49343b-6309-4a23-abb5-aeff52a8cf3a" width="600" alt="Intersect" />
+      <br />
+      <b>Intersect</b>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/27c3a93e-a720-4ca4-b3be-3a59cfb63c58" width="600" alt="New Body" />
+      <br />
+      <b>New Body</b>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/370ee607-264e-4748-9c9b-4bd87caa1753" width="600" alt="New Components" />
+      <br />
+      <b>New Components</b>
+    </td>
+  </tr>
+</table>
+
+-----
+  
+<p align="center">
+<img width="1177" height="448" alt="image" src="https://github.com/user-attachments/assets/1da5aeed-47fc-4af6-9918-da79e102ec8a" />
+</p>
+
+* From the left most dialogue box you can **JOIN** or **CUT** the component.
+-----
+
+### 1.2  ![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.021.png)**Mirror:** Makes a perfect, identical copy flipped across a reference line or **plane**.
+
+<p align="center">
+<img width="1130" height="832" alt="image" src="https://github.com/user-attachments/assets/d157632e-620b-42d5-8c6c-156d62d379c7" />
+</p>
+
+* Select The **Mirror** command from the Toolbar.
+
+-----
+
+<p align="center">
+<img width="1170" height="343" alt="image" src="https://github.com/user-attachments/assets/41441f93-ce63-4189-bd60-7d2d0339c213" />
+</p>
+
+* Select the object.
+
+-----
+
+<p align="center">
+<img width="1225" height="312" alt="image" src="https://github.com/user-attachments/assets/4fc4639f-3edb-4c48-9aec-f7356e8e7141" />
+</p>
+
+* Select the reflection plane
+
+-----
+
+<p align="center">
+<img width="620" height="389" alt="image" src="https://github.com/user-attachments/assets/b50af5ed-10b9-45e1-94a3-a35805c52af7" />
+</p>
+
+*press okay then you will get the mirrored object.
+
+""Quick Tips:"" Its Not mandatory that only the origin could be the replection plane. It coulbe a line or constraction plane too.
+
+### **Pattern:** Instead of copying things one-by-one, you use this to make many copies (of a feature or a whole object) following a straight (**linear**) or round (**circular**) path.
+
+<p align="center">
+<img width="837" height="888" alt="image" src="https://github.com/user-attachments/assets/4009f3e1-88a3-4803-8903-cdee2ae41177" />
+</p>
+
+* Select The **patter > Circuler Patter** command from the Toolbar.
+
+-----
+<p align="center">
+<img width="1188" height="511" alt="image" src="https://github.com/user-attachments/assets/1da753a2-07db-4dc9-971e-cece30e58b0d" />
+</p>
+
+* Select the object and the select the circuler point and specify the value of the copies.
+
+-----
+
+<p align="center">
+<img width="833" height="673" alt="image" src="https://github.com/user-attachments/assets/b8abc51b-d3e6-4859-8fb9-18eaee01479e" />
+</p>
+
+* Click "Ok"
+
+### Same Goes For the **Rectangular Pattern.""
+
+""Quick Tips:"" Its Not mandatory that only the origin could be the circuler point or rectangualr line. It coulbe a line or constraction plane too.
+
+-----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## **2. 3D Modification**
 These tools help you smooth out rough spots, hollow out parts, or change the overall size.
+<p align="center">
+<img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.022.png" />
+</p>
 
-![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.022.png)
+### 2.1 **![fillet icon](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.023.png) Fillet:** **Rounds off** a sharp edge or corner. 
 
-- **![fillet icon](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.023.png) Fillet:** **Rounds off** a sharp edge or corner. You select the edge and set the curve's **radius**.
+<p align="center">
+<img width="1133" height="576" alt="image" src="https://github.com/user-attachments/assets/d579285a-4aab-4fd8-a46d-39debf5d40fb" />
+</p>
 
-- **![chamfer icon](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.024.png) Chamfer:** **Cuts a flat angle** on a sharp edge instead of rounding it. You set the **distance** and **angle** of the cut.
+*You select the edge and set the curve's **radius**.
 
-- **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.025.png)** Shell: **Makes a solid part hollow**, like a plastic bottle. You pick the faces you want to remove to create the opening and set the **wall thickness**.
-
-- **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.026.png) Scale:** Makes the entire object bigger or smaller by multiplying its size by a **scale factor**.
-
-- **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.027.png) Combine:** **Merges** two or more solid parts into a single body. You choose whether to **join** (add), **cut** (subtract), or **intersect** them.
-
-- **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.028.png) Split:** Uses a **face or plane** like a knife to cut one solid body into two or more separate pieces.
-
-## <a name="_rpsan4nrzevp"></a>**Moving Things**
-- ![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.029.png)**Move:** Shifts or rotates an object along the **X, Y, or Z directions** by specific amounts.
-
-![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.030.png)
-
-- **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.031.png) Point-to-Point Move:** A fast way to move. You pick one **point on the object**, and then pick the exact **spot in space** where you want that point to end up.
-
-- **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.032.png) Pivot:** This lets you temporarily set a custom **center point** (**pivot**) for rotation, so you can spin the object around a specific spot.
 -----
-**Assembly & Joints**
+
+### 2.2 **![chamfer icon](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.024.png) Chamfer:** **Cuts a flat angle** on a sharp edge instead of rounding it.
+
+<p align="center">
+<img width="1133" height="544" alt="image" src="https://github.com/user-attachments/assets/aff6ac2f-00ba-471c-afe9-e22b583f9ccb" />
+</p>
+
+*You set the value to chamfer of the edge.
+
+-----
+
+### 2.3 **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.025.png)** Shell: **Makes a solid part hollow**, like a plastic bottle.
+
+<p align="center">
+<img width="1189" height="582" alt="image" src="https://github.com/user-attachments/assets/bc470017-0da7-4f8f-b9ed-08a095e89aed" />
+</p>
+
+*You pick the faces you want to remove to create the opening and set the **wall thickness**.
+
+-----
+
+### 2.4 **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.026.png) Scale:** Makes the entire object bigger or smaller by multiplying its size by a **scale factor**.
+
+<p align="center">
+<img width="1106" height="484" alt="image" src="https://github.com/user-attachments/assets/fd34f80e-6efa-4a52-b214-f58d10c28bc5" />
+</p>
+
+* It Has been .5 smaller than the previous size.
+
+-----
+
+### 2.5 **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.027.png) Combine:** **Merges** two or more solid parts into a single body. You choose whether to **join** (add), **cut** (subtract), or **intersect** them.
+
+<p align="center">
+<img width="608" height="330" alt="image" src="https://github.com/user-attachments/assets/673b887d-7c62-460e-bd00-8daccd77e0ff" />
+</p>
+
+* Two Different Object.
+
+<p align="center">
+<img width="1014" height="401" alt="image" src="https://github.com/user-attachments/assets/5ca0366f-830f-4d83-ba93-330742ae1786" />
+</p>
+
+* Select two object to combine then press okay. Selected Two Objects are Combined.
+
+### 2.6 **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.028.png) Split:** Uses a **face or plane** like a knife to cut one solid body into two or more separate pieces.
+
+<p align="center">
+<img width="906" height="433" alt="image" src="https://github.com/user-attachments/assets/2b062736-3699-46f0-950d-a21883d57a25" />
+</p>
+
+* Select the Body and the plane to slpit the body. You can create custom plane in **Constraction Line** later.
+
+-----
+
+## 3.0 <a name="_rpsan4nrzevp"></a>**Moving Things**
+
+ ### 3.1 ![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.029.png)**Move:** Shifts or rotates an object along the **X, Y, or Z directions** by specific amounts.
+
+<p align="center">
+<img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.030.png" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/bfd66834-2a01-4f6d-a5ea-c233d74f2975" width="800" alt="Select the Body" />
+      <br />
+      <b>Step 1: Select the Body</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/75164eae-f434-44ed-ab12-6b6f4bcb7642" width="800" alt="X Dimension" />
+      <br />
+      <b>Step 2: Set X = 50mm</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/e98220c9-06f4-4db5-859c-852887acadaf" width="800" alt="Y Dimension" />
+      <br />
+      <b>Step 3: Set Y = 30mm</b>
+    </td>
+  </tr>
+</table>
+
+* Select the object and specify the X, Y, Z values to move the Object.
+
+-----
+
+### 3.2 **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.031.png) Point-to-Point Move:** A fast way to move. You pick one **point on the object**, and then pick the exact **spot in space** where you want that point to end up.
+
+<p align="center">
+<img width="634" height="472" alt="image" src="https://github.com/user-attachments/assets/8705d664-2770-438f-8cca-6ae51769c421" />
+</p>
+
+* If i want to move one object to another by this point then Run The **Move** command and Select **Point to Point**.
+
+<p align="center">
+<img width="1239" height="380" alt="image" src="https://github.com/user-attachments/assets/1668675b-90a3-4935-a1d7-21b4765bbe17" />
+</p>
+
+* Selected the object and the two points.
+
+<p align="center">
+<img width="1236" height="426" alt="image" src="https://github.com/user-attachments/assets/699cf02a-b2a8-4be8-bd3f-cdf55fb8d01b" />
+</p>
+
+* Click Okay to move the object **Point to Point**
+
+-----
+
+### 3.3 **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.032.png) Pivot:** This lets you temporarily set a custom **center point** (**pivot**) for rotation, so you can spin the object around a specific spot.
+
+<p align="center">
+<img width="740" height="537" alt="image" src="https://github.com/user-attachments/assets/086d3288-61ed-4d59-b336-0537918268ab" />
+</p>
+
+* Run the **Move** command and select the **Pivot** command.
+
+<p align="center">
+<img width="843" height="527" alt="image" src="https://github.com/user-attachments/assets/1b9238b4-0a14-41a6-b5e6-7edaec313c9e" />
+</p>
+
+* Now Move the pivot and click the **Check Mark** beside pivot. (Mandatory), then press **Ok**
+
+<p align="center">
+<img width="931" height="555" alt="image" src="https://github.com/user-attachments/assets/9899d440-9d69-4afd-88c5-1fec3ff4b175" />
+</p>
+
+* Now the Object will move by its new pivot point
+
+-----
+
+
+## 4.0 **Assembly & Joints**
 
 Joints tell the software how separate components should interact and move together.
 
-![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.033.png)
+<p align="center">
+<img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.033.png" />
+</p>
 
-- **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.034.png) Joint Tool:** You pick **snap points** (like corners or center spots) on the two parts you want to connect.
-- **Joint Types: Click on the Tab “Motion”**
-  - **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.035.png) Rigid:** **Locks** the parts together completely—they can't move at all.
-  - **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.036.png) Revolute (Spin) & Slider (Slide):** These allow movement. You need to set the **Minimum** and **Maximum** positions to limit how far the part can spin or slide.
-  
-  ![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.037.png)
+### 4.1 **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.034.png) Joint Tool:** You pick **snap points** (like corners or center spots) on the two parts you want to connect.
+**Joint Types: Click on the Tab “Motion”**
+  **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.035.png) Rigid:** **Locks** the parts together completely—they can't move at all.
 
-- **Preview:** Always use the motion **preview** to watch the joint work and make sure it's doing what you expect!
+ <p align="center">
+  <img width="704" height="407" alt="image" src="https://github.com/user-attachments/assets/221ecc6c-f911-440d-8921-1b321a5b4eeb" />
+  </p>
+
+  * Select two snap points of the components and connect them. Press "Ok"
+
 -----
 
-**Construction Tools**\
+### 4.2 **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.036.png) Revolute (Spin) & Slider (Slide):** These allow movement. You need to set the **Minimum** and **Maximum** positions to limit how far the part can spin or slide.
+  
+<p align="center">
+<img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.037.png" />
+</p>
+
+<p align="center">
+<img width="704" height="407" alt="image" src="https://github.com/user-attachments/assets/221ecc6c-f911-440d-8921-1b321a5b4eeb" />
+</p>
+
+  * Select the joint type from motion. 
+
+  <p align="center">
+ <img width="1168" height="431" alt="image" src="https://github.com/user-attachments/assets/88298554-4d1d-4c7b-a341-1710e59b163f" />
+  </p>
+
+ * **Preview:** Always use the motion **preview** to watch the joint work and make sure it's doing what you expect!
+ * 
+-----
+
+### 5.0 **Construction Tools**
 These tools create things that aren't part of the final product (like planes or lines) but help you sketch or build features on complicated parts.
 
-![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.038.png)
+<p align="center">
+<img src="../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.038.png" />
+</p>
 
-- **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.039.png) Offset Plane:** Makes a new plane that is **parallel** to an existing surface, just moved by a certain **distance**.
+### 5.1 **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.039.png) Offset Plane:** Makes a new plane that is **parallel** to an existing surface, just moved by a certain **distance**.
 
-- **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.040.png) Plane on the Edge:** Selects a straight **edge** and creates a plane rotated off that edge by a specific **angle**.
+<p align="center">
+<img width="1104" height="375" alt="image" src="https://github.com/user-attachments/assets/48be887e-1991-4de9-bbd6-e92863d537ba" />
+</p>
 
-- **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.041.png) Mid Plane:** Creates a plane exactly **in the middle** of two selected faces.
+* Select the **Offset Plane** commant and select the face of the object to make the offset plane. Specify the distance of the plane. Click "ok"
 
-- **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.042.png) Tangent Plane:** Creates a plane that just **touches** a curved surface (like a **cylinder**) without going inside it.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+-----
+
+### 5.2 **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.040.png) Plane on the Edge:** Selects a straight **edge** and creates a plane rotated off that edge by a specific **angle**.
+
+<p align="center">
+<img width="1110" height="348" alt="image" src="https://github.com/user-attachments/assets/c3632689-b365-4b1d-a276-21887154f5bf" />
+</p>
+
+* Select the **Plane on the Edge** commant and select the edge of the object to make the plane. Specify the angle of the plane. Click "ok" .
+
+-----
+
+### 5.3 **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.041.png) Mid Plane:** Creates a plane exactly **in the middle** of two selected faces.
+
+<p align="center">
+<img width="1112" height="372" alt="image" src="https://github.com/user-attachments/assets/8d34e182-39f3-47be-a804-0312771fc0a6" />
+
+<img width="1087" height="350" alt="image" src="https://github.com/user-attachments/assets/d3ca4965-400d-4af7-93ea-cb56bcfc499e" />
+
+<img width="432" height="375" alt="image" src="https://github.com/user-attachments/assets/6041f07a-44cd-4680-9bc3-befea195fe2b" />
+
+</p>
+
+* Select the ** MidPlane** command and select the Opposit two face of the object to make the plane. Click "ok" . There will be the plane right between the object.
+  
+* **Quick tips:**You split the object by creating the mid plane first and get the object divided into two parts.
+
+-----
+
+### 5.4 **![](../images/Aspose.Words.b9c50f4e-82b8-47a2-a7bc-6be21e76a9ea.042.png) Tangent Plane:** Creates a plane that just **touches** a curved surface (like a **cylinder**) without going inside it.
+
+<p align="center">
+<img width="1068" height="366" alt="image" src="https://github.com/user-attachments/assets/8808d334-0550-4b90-945d-6eeea7bca887" />
+</p>
+
+* Select the ** Tanget Plane** commant and select the round face of the object to make the plane. Specify the angle of the plane. Click "ok" .
+* There's a option name **Reference Plane** for now we don't need that.
+
+-----
