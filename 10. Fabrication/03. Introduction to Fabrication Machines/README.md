@@ -264,6 +264,6 @@ Fix: use a drill press and clamp the part.
 
 ---
 
-### [Next Chapter: DXF file, Laser Cutting ](../04.%20DXF%20file,%20Laser%20Cutting/README.md)
+### [Next Chapter: DXF file, Laser Cutting](../04.%20DXF%20file,%20Laser%20Cutting/README.md)
 
 ---
